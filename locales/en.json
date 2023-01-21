@@ -1,0 +1,167 @@
+{
+  "clip": {
+    "description": "ERROR BATO",
+    "usagesReply": "ERROR BATO",
+    "errorQueue": "ERROR BATO",
+    "errorNotChannel": "ERROR BATO"
+  },
+  "clips": {
+    "description": "List all clips"
+  },
+  "help": {
+    "description": "ERROR BATO",
+    "embedTitle": "ERROR BATO",
+    "embedDescription": "ERROR BATO"
+  },
+  "invite": {
+    "description": "ERROR BATO"
+  },
+  "loop": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO",
+    "result": "ERROR BATO"
+  },
+  "lyrics": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO",
+    "lyricsNotFound": "ERROR BATO",
+    "embedTitle": "ERROR BATO"
+  },
+  "move": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO",
+    "usagesReply": "ERROR BATO",
+    "result": "ERROR BATO"
+  },
+  "nowplaying": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO",
+    "embedTitle": "ERROR BATO",
+    "live": " ERROR BATO",
+    "timeRemaining": "ERROR BATO"
+  },
+  "pause": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO.",
+    "result": "ERROR BATO."
+  },
+  "ping": {
+    "description": "ERROR BATO",
+    "result": "ERROR BATO"
+  },
+  "play": {
+    "description": "Bato errorce malo ;x",
+    "errorNotChannel": "Error batice ;d",
+    "errorNotInSameChannel": "Error batice ;d",
+    "usageReply": "Bato: {prefix}play [YouTube URL ili naziv pesme]",
+    "missingPermissionConnect": "Error batice ;d",
+    "missingPermissionSpeak": "Error batice ;d!",
+    "queueAdded": "Error batice ;d",
+    "cantJoinChannel": "Error batice ;d",
+    "queueEnded": "Error batice ;d",
+    "queueError": "Error batice ;d",
+    "startedPlaying": "krece djuskanje ;ddd **{title}** {url}",
+    "skipSong": "test1",
+    "pauseSong": "test2",
+    "resumeSong": "test3",
+    "unmutedSong": "test4",
+    "mutedSong": "test5",
+    "decreasedVolume": "test6",
+    "increasedVolume": "test7",
+    "loopSong": "test8",
+    "stopSong": "Nemoj da prekidas batooooo",
+    "leaveChannel": "Dovidjenja ;p",
+    "songNotFound": "Nema toj bato sta trazis",
+    "songAccessErr": "Nesi punoletan"
+  },
+  "playlist": {
+    "description": "test",
+    "usagesReply": "test",
+    "errorNotChannel": "test",
+    "errorNotInSameChannel": "test",
+    "missingPermissionConnect": "test",
+    "missingPermissionSpeak": "test",
+    "errorNotFoundPlaylist": "test",
+    "fetchingPlaylist": "test",
+    "playlistCharLimit": "test",
+    "startedPlaylist": "test",
+    "cantJoinChannel": "test"
+  },
+  "pruning": {
+    "description": "test",
+    "errorWritingFile": "test",
+    "result": "test"
+  },
+  "queue": {
+    "description": "test",
+    "missingPermissionMessage": "test",
+    "errorNotQueue": "test",
+    "currentPage": "test",
+    "embedTitle": "test",
+    "embedCurrentSong": "test"
+  },
+  "remove": {
+    "description": "test",
+    "errorNotQueue": "test",
+    "usageReply": "test",
+    "result": "test"
+  },
+  "resume": {
+    "description": "test",
+    "errorNotQueue": "test",
+    "resultNotPlaying": "test",
+    "errorPlaying": "test"
+  },
+  "search": {
+    "description": "ERROR BATO",
+    "usageReply": "ERROR BATO",
+    "errorAlreadyCollector": "ERROR BATO",
+    "errorNotChannel": "ERROR BATO",
+    "resultEmbedTitle": "ERROR BATO",
+    "resultEmbedDesc": "ERROR BATO"
+  },
+  "shuffle": {
+    "description": "test",
+    "errorNotQueue": "test",
+    "result": "test"
+  },
+  "skip": {
+    "description": "test",
+    "errorNotQueue": "test",
+    "result": "test"
+  },
+  "skipto": {
+    "description": "test",
+    "usageReply": "test",
+    "errorNotQueue": "test",
+    "errorNotValid": "test",
+    "result": "test"
+  },
+  "stop": {
+    "description": "Nemo prekidas ",
+    "errorNotQueue": "Nema se",
+    "result": "<@{author}> KAJ GA PREKIDAS ?!?!?!"
+  },
+  "uptime": {
+    "description": "ERROR BATO",
+    "result": "ERROR BATO"
+  },
+  "volume": {
+    "description": "ERROR BATO",
+    "errorNotQueue": "ERROR BATO.",
+    "errorNotChannel": "ERROR BATO",
+    "currentVolume": "ERROR BATO",
+    "errorNotNumber": "ERROR BATO",
+    "errorNotValid": "ERROR BATO",
+    "result": "ERROR BATO"
+  },
+  "common": {
+    "on": "**on**",
+    "off": "**off**",
+    "enabled": "**enabled**",
+    "disabled": "**disabled**",
+    "errorNotChannel": "ERROR BATO",
+    "cooldownMessage": "ERROR BATO",
+    "errorCommand": "ERROR BATO"
+  }
+}
